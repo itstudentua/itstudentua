@@ -15,12 +15,11 @@
 ### And of course I like programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 ## 🧑‍💻 Skills and Experience 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img src="https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif" width="500">
 
-* ⚛ React
-* 📱 React Native
-* <i class="devicon-html5-plain colored"></i> HTML, CSS, JS
+
+* <img src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png " width="50"> HTML/CSS
+* 
 💻
 ## 	:books: Education
 
