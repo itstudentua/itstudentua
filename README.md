@@ -52,5 +52,6 @@
 
 ### Kyiv College of Communication - Kyiv, Ukraine
    * JUNIOR SPECIALIST IN SOFTWARE DEVELOPMENT - June 2018
-<img src="https://www.didactique.info/images/globe-education-didactique.gif" width="250">    <img src="https://media.giphy.com/media/TjA6DAFMkIf5cZCOMz/giphy.gif" width="250">
+
+<img src="https://media.giphy.com/media/TjA6DAFMkIf5cZCOMz/giphy.gif" width="250">
 
