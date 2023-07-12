@@ -27,7 +27,7 @@
 * DatabaseSystems: SQLServer, MySQL
 * MS Office: Word, Excel, PowerPoint, MSAcces   
 
-<img src="https://github.com/itstudentua/itstudentua/blob/main/src/S0S.gif" width="200">
+<img src="https://github.com/itstudentua/itstudentua/blob/main/src/S0S.gif" width="250">
 
 
 
@@ -42,7 +42,7 @@
 * Responsible
 * Analytic mind
 
-<img src="https://media.licdn.com/dms/image/D4D12AQEUr9_75-4w_Q/article-cover_image-shrink_600_2000/0/1677569141693?e=2147483647&v=beta&t=nMX3ziNUwQlAl6mbKYofNQEoknfXOacOEbj2H2cnAi8" width="250">
+<img src="https://media.licdn.com/dms/image/D4D12AQEUr9_75-4w_Q/article-cover_image-shrink_600_2000/0/1677569141693?e=2147483647&v=beta&t=nMX3ziNUwQlAl6mbKYofNQEoknfXOacOEbj2H2cnAi8" width="350">
 
    
 ## 	:books: Education
@@ -52,4 +52,4 @@
 
 ### Kyiv College of Communication - Kyiv, Ukraine
    * JUNIOR SPECIALIST IN SOFTWARE DEVELOPMENT - June 2018
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="350">
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="450">
