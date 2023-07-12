@@ -6,7 +6,7 @@
 ![](https://github.com/itstudentua/itstudentua/blob/main/src/halpern_ukraine_hack.gif?raw=true)
 
 
-### <img src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif" width="45" /> About Me:
+### <img src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif" width="35" /> About Me:
 - :department_store: I live in Kyiv
 - :man: I'm 24
 - :bicyclist: I like sports
