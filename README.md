@@ -1,7 +1,5 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> 
-### My name is Illia, I am a Developer from Ukraine :ukraine:	
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+### My name is Illia, I am a Developer from Ukraine :ukraine:	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
 ![](https://github.com/itstudentua/itstudentua/blob/main/src/halpern_ukraine_hack.gif?raw=true)
 
