@@ -12,10 +12,10 @@
 - :smile_cat: I have a cat
 - :racing_car: I like to drive a car
 
-### And of course I like programming  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+### And of course I like programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 ## 🧑‍💻 Skills and Experience 
-![](https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif?raw=true)
+<img src="https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif" width="50">
 
 * ⚛ React
 * 📱 React Native
