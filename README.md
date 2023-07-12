@@ -15,7 +15,7 @@
 ### And of course I like programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 ## 🧑‍💻 Skills and Experience 
-<img src="https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif" width="50">
+<img src="https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif" width="300">
 
 * ⚛ React
 * 📱 React Native
