@@ -17,6 +17,9 @@
 <img src="https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif" width="500">
 
 ### Hard skills:
+<div>
+   
+</div>
 * HTML/CSS
 * Tailwind CSS
 * SCSS
