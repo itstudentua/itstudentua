@@ -4,7 +4,7 @@
 ![](https://github.com/itstudentua/itstudentua/blob/main/src/halpern_ukraine_hack.gif?raw=true)
 
 
-## <img src="https://github.com/itstudentua/itstudentua/blob/main/src/pc-banging.gif" width="45" />  About Me:
+## <img src="https://github.com/itstudentua/itstudentua/blob/main/src/pc-banging.gif" width="45" />  About Me
 - :department_store: I live in Kyiv
 - :man: I'm 24
 - :bicyclist: I like sports
@@ -16,14 +16,28 @@
 ## 🧑‍💻 Skills and Experience 
 <img src="https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif" width="500">
 
-
+### Hard skills:
 * HTML/CSS
 * Tailwind CSS
 * SCSS
 * JavaScript
+* JQuery
 * React
 * Python
-  
+* DatabaseSystems: SQLServer, MySQL
+* MS Office: Word, Excel, PowerPoint, MSAcces
+
+### Soft skills:
+* Motivated by problem solving
+* Collaborative and efficient
+* Works well with deadlines
+* Neat and well-organized
+* Reliabilitive worker
+* Active listening
+* Punctual
+* Responsible
+* Analytic mind
+   
 ## 	:books: Education
 ### Odesa National Academy of Telecommunications - Odesa, Ukraine
    * MASTER'S DEGREE IN SOFTWARE ENGINEERING - July 2022
