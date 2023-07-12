@@ -9,8 +9,10 @@
 - :department_store: I live in Kyiv
 - :man: I'm 24
 - :bicyclist: I like sports
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I have a cat :smile_cat:
+- :smile_cat: I have a cat
 - :racing_car: I like to drive a car
+
+And of course I like programming  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 ## 🧑‍💻 Skills and Experience 
 ![](https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif?raw=true)
