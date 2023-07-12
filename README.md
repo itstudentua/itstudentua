@@ -27,7 +27,7 @@
   
 ## 	:books: Education
  ### Odesa National Academy of Telecommunications, Odesa, Ukraine, July2022
-  # MASTER'SDEGREEINSOFTWAREENGINEERING
+   MASTER'SDEGREEINSOFTWAREENGINEERING
  ### Odesa National Academy of Telecommunications, Odesa, Ukraine, June2020
     BACHELOR’SDEGREEINSOFTWAREENGINEERING
  ### Kyiv College of Communication, Kyiv, Ukraine, June2018
