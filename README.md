@@ -6,7 +6,7 @@
 ![](https://github.com/itstudentua/itstudentua/blob/main/src/halpern_ukraine_hack.gif?raw=true)
 
 
-### <img src="https://github.com/itstudentua/itstudentua/blob/main/src/S0S.gif" width="45" /> About Me:
+### <img src="https://github.com/itstudentua/itstudentua/blob/main/src/pc-banging.gif" width="45" /> About Me:
 - :department_store: I live in Kyiv
 - :man: I'm 24
 - :bicyclist: I like sports
