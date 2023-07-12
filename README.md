@@ -6,7 +6,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - :department_store: I live in Kyiv
 - :man: I'm 24
-- :bicyclist: I like sports  ;
+- :bicyclist: I like sports
 - :smile_cat: I have a cat
 - :racing_car: I like to drive a car
 
