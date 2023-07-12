@@ -26,9 +26,9 @@
 * Python
   
 ## 	:books: Education
- ### Odesa National Academy of Telecommunications, Odesa, Ukraine, July2022
-   MASTER'SDEGREEINSOFTWAREENGINEERING
- ### Odesa National Academy of Telecommunications, Odesa, Ukraine, June2020
-    BACHELOR’SDEGREEINSOFTWAREENGINEERING
- ### Kyiv College of Communication, Kyiv, Ukraine, June2018
-    JUNIORSPECIALISTINSOFTWAREDEVELOPMEN
+### Odesa National Academy of Telecommunications, Odesa, Ukraine
+   * MASTER'S DEGREE IN SOFTWARE ENGINEERING - July 2022
+   * BACHELOR’S DEGREE IN SOFTWARE ENGINEERING - June 2020
+
+### Kyiv College of Communication, Kyiv, Ukraine
+   JUNIORSPECIALISTINSOFTWAREDEVELOPMEN - June2018
