@@ -42,7 +42,7 @@
 * Responsible
 * Analytic mind
 
-<img src="https://media.licdn.com/dms/image/D4D12AQEUr9_75-4w_Q/article-cover_image-shrink_600_2000/0/1677569141693?e=2147483647&v=beta&t=nMX3ziNUwQlAl6mbKYofNQEoknfXOacOEbj2H2cnAi8" width="350">
+<img src="https://github.com/itstudentua/itstudentua/blob/main/src/job.gif" width="350">
 
    
 ## 	:books: Education
@@ -53,5 +53,5 @@
 ### Kyiv College of Communication - Kyiv, Ukraine
    * JUNIOR SPECIALIST IN SOFTWARE DEVELOPMENT - June 2018
 
-<img src="https://media.giphy.com/media/TjA6DAFMkIf5cZCOMz/giphy.gif" width="250">
+<img src="https://github.com/itstudentua/itstudentua/blob/main/src/bachel.gif" width="250">
 
