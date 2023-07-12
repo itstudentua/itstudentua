@@ -16,8 +16,9 @@
 ## 🧑‍💻 Skills and Experience 
 <img src="https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif" width="500">
 
-### Hard skills <img src="https://media1.giphy.com/media/Y2c1ZjXVHRdSr1YojF/200w.gif?cid=790b7611du5qxzy4fwyen56utxdy38ia9z68ke6zuiemsr9p&ep=v1_gifs_search&rid=200w.gif&ct=g" width="250">:
-* HTML/CSS
+### Hard skills:
+<div>
+   * HTML/CSS
 * Tailwind CSS
 * SCSS
 * JavaScript
@@ -26,6 +27,9 @@
 * Python
 * DatabaseSystems: SQLServer, MySQL
 * MS Office: Word, Excel, PowerPoint, MSAcces
+</div>
+
+<img src="https://media1.giphy.com/media/Y2c1ZjXVHRdSr1YojF/200w.gif?cid=790b7611du5qxzy4fwyen56utxdy38ia9z68ke6zuiemsr9p&ep=v1_gifs_search&rid=200w.gif&ct=g" width="250">
 
 ### Soft skills:
 * Motivated by problem solving
