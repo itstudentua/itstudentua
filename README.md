@@ -9,7 +9,7 @@
 - :department_store: I live in Kyiv
 - :man: I'm 24
 - :bicyclist: I like sports
-- :smile_cat: I have a cat
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I have a cat :smile_cat:
 - :racing_car: I like to drive a car
 
 ## 🧑‍💻 Skills and Experience 
