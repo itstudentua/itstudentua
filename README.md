@@ -18,9 +18,17 @@
 <img src="https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif" width="500">
 
 
-* <img src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" width="50"> HTML/CSS
-* <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="50"> JS
-* 
-💻
+* HTML/CSS
+* Tailwind CSS
+* SCSS
+* JavaScript
+* React
+* Python
+  
 ## 	:books: Education
-
+ ### Odesa National Academy of Telecommunications, Odesa, Ukraine, July2022
+    MASTER'SDEGREEINSOFTWAREENGINEERING
+ ### Odesa National Academy of Telecommunications, Odesa, Ukraine, June2020
+    BACHELOR’SDEGREEINSOFTWAREENGINEERING
+ ### Kyiv College of Communication, Kyiv, Ukraine, June2018
+    JUNIORSPECIALISTINSOFTWAREDEVELOPMEN
