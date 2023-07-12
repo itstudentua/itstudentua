@@ -19,7 +19,7 @@
 
 * ⚛ React
 * 📱 React Native
-* <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="50">
+* <img style="margin-top: 10px;" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="50">
  HTML, CSS, JS
 💻
 ## 	:books: Education
