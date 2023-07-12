@@ -10,9 +10,10 @@
 - :smile_cat: I have a cat
 - :racing_car: I like to drive a car
 
-## Skills and Experience 🧑‍💻
+## 🧑‍💻 Skills and Experience 
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
 
+## 	:books: Education
 
