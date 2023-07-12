@@ -4,11 +4,11 @@
 ![](https://github.com/itstudentua/itstudentua/blob/main/src/gifka.gif?raw=true)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- I live in Kyiv :department_store: ;
-- I'm 24 :man: ;
+- :department_store: I live in Kyiv
+- :man: I'm 24
 - I like sports :bicyclist: :swimmer: :soccer: :volleyball: :basketball: ;
-- I have a cat :smile_cat: ;
-- I like to drive a car :racing_car: .
+- :smile_cat: I have a cat
+- :racing_car: I like to drive a car
 
 ## Skills and Experience 🧑‍💻
 * ⚛ React
