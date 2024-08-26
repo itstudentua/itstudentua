@@ -6,7 +6,7 @@
 
 ## <img src="https://github.com/itstudentua/itstudentua/blob/main/src/pc-banging.gif" width="45" />  About Me
 - :department_store: I live in Kyiv
-- :man: I'm 24
+- :man: I'm 25
 - :bicyclist: I like sports
 - :smile_cat: I have a cat
 - :racing_car: I like to drive a car
