@@ -19,37 +19,35 @@
 ### Hard skills:
 * HTML/CSS
 * Tailwind CSS
-* SCSS
-* JavaScript
-* JQuery
-* React
+* JavaScript/TypeScript
+* React/Next.js
 * Python
-* DatabaseSystems: SQLServer, MySQL
-* MS Office: Word, Excel, PowerPoint, MSAcces   
+* Golang
+* Docker
+* Postgresql
 
 <img src="https://github.com/itstudentua/itstudentua/blob/main/src/S0S.gif" width="250">
 
 
 
 ### Soft skills:
-* Motivated by problem solving
+* Motivated by problem-solving
 * Collaborative and efficient
 * Works well with deadlines
 * Neat and well-organized
-* Reliabilitive worker
-* Active listening
+* Reliable worker
+* Active listener
 * Punctual
 * Responsible
-* Analytic mind
+* Analytical mind
 
-<img src="https://github.com/itstudentua/itstudentua/blob/main/src/job.gif" width="350">
+<img src="https://github.com/itstudentua/itstudentua/blob/main/src/job.gif" width="250">
 
    
 ## 	:books: Education
 ### Odesa National Academy of Telecommunications - Odesa, Ukraine
    * MASTER'S DEGREE IN SOFTWARE ENGINEERING - July 2022
-   * BACHELOR’S DEGREE IN SOFTWARE ENGINEERING - June 2020
-
+   
 ### Kyiv College of Communication - Kyiv, Ukraine
    * JUNIOR SPECIALIST IN SOFTWARE DEVELOPMENT - June 2018
 
